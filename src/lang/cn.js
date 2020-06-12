@@ -94,10 +94,10 @@ const messages = {
     startDownload: '开始下载...',
     progressDownload: '正在下载：$1',
     downloadFirst: '请先缓存图书',
-    welcome: '欢迎访问慕课网<br>学习《实战微信读书——媲美原生APP的企业级Web书城》<br>--------  作者：Sam  --------',
-    find: '去找书',
+    welcome: '欢迎访问使用我们的网络小说阅读器<br>--------  作者：Mr.Atlas小组  --------',
+    find: '书城',
     changeLanguage: '切换语言',
-    studyNow: '去慕课网学习'
+    studyNow: '访问我们的主页'
   },
   detail: {
     copyright: '版权',
