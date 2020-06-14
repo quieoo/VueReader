@@ -1,5 +1,5 @@
 # Vue web Reader
-requirements:nodejs,Vue
+Requirements:nodejs,Vue
 
 npm install
 
